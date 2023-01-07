@@ -77,7 +77,7 @@ namespace CommandsService.AsyncDataServices
 
         private void RabbitMQ_ConnectionShutdown(object sender, ShutdownEventArgs e)
         {
-            _logger.LogInformation("--> Connection Shutdown");
+            _logger.LogInformation("--> Connection ShutdoShutdownShutdoShutdownwnwn");
         }
     }
-}
+ShutdoShutdownwnShutdoShutdownwn
